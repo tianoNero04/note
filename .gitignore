@@ -1,5 +1,11 @@
-```gitignore
-./其他
+# =========================
+# Custom Ignores
+# =========================
+
+其他/
+temp/
+tmp/
+
 # =========================
 # macOS
 # =========================
@@ -34,12 +40,14 @@ Temporary Items
 # Obsidian
 # =========================
 
+.obsidian/workspace
 .obsidian/workspace.json
-.obsidian/cache/
 .obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/indexed-db/
 
-# Plugin temp/cache
-.obsidian/plugins/*/data.json
+# Plugin temp/cache (Optional: uncomment if you want to sync plugin settings)
+# .obsidian/plugins/*/data.json
 
 # =========================
 # VSCode
@@ -75,5 +83,3 @@ __pycache__/
 
 .env
 .env.local
-```
-
