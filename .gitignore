@@ -1,0 +1,78 @@
+```gitignore
+# =========================
+# macOS
+# =========================
+
+# Finder
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon cache
+Icon?
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# =========================
+# Obsidian
+# =========================
+
+.obsidian/workspace.json
+.obsidian/cache/
+.obsidian/workspace-mobile.json
+
+# Plugin temp/cache
+.obsidian/plugins/*/data.json
+
+# =========================
+# VSCode
+# =========================
+
+.vscode/
+
+# =========================
+# Node.js
+# =========================
+
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =========================
+# Python
+# =========================
+
+__pycache__/
+*.pyc
+
+# =========================
+# Logs
+# =========================
+
+*.log
+
+# =========================
+# Env files
+# =========================
+
+.env
+.env.local
+```
+
