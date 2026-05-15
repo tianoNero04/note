@@ -1,0 +1,17 @@
+{
+    "plugins": {
+        "copilot": {
+            "id": "copilot",
+            "isApplied": true,
+            "pluginVersion": "3.3.0",
+            "translationVersion": "1.0.0"
+        },
+        "obsidian42-brat": {
+            "id": "obsidian42-brat",
+            "isApplied": true,
+            "pluginVersion": "2.0.4",
+            "translationVersion": "2.0.1"
+        }
+    },
+    "themes": {}
+}

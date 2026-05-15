@@ -13,16 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "其他/summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "summary"
             }
           },
           {
-            "id": "b9f144401ac4b7e0",
+            "id": "2cce36ccc3b3d612",
             "type": "leaf",
             "state": {
               "type": "i18n-manager-view",
@@ -30,9 +30,18 @@
               "icon": "layout-grid",
               "title": "i18n 管理中心"
             }
+          },
+          {
+            "id": "cf78f90f40e92ed6",
+            "type": "leaf",
+            "state": {
+              "type": "i18n-cloud-view",
+              "state": {},
+              "icon": "cloud",
+              "title": "云端翻译中心"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,8 +181,19 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "dfc8f967c5a61c5f",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -195,11 +215,12 @@
       "i18n:common.i18n": false
     }
   },
-  "active": "b9f144401ac4b7e0",
+  "active": "543c154aea7cc3e2",
   "lastOpenFiles": [
     "其他/timeline.md",
     "其他/summary.md",
     "其他/prompt.md",
+    "未命名.md",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
@@ -221,7 +242,6 @@
     "其他/未命名.txt",
     "其他",
     "未命名.txt",
-    "未命名文件夹",
-    "未命名.md"
+    "未命名文件夹"
   ]
 }
