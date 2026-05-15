@@ -395,10 +395,13 @@
   "cloudRepos": [
     "yubolun/obsidian-i18n-resources",
     "xiaosong8584/obsidian-i18n-resources",
-    "yunrr/obsidian-i18n-resources"
+    "yunrr/obsidian-i18n-resources",
+    "ljded/obsidian-i18n-resources",
+    "daoziy/obsidian-i18n-daoziz",
+    "AscerChan/obsidian-i18n-resources"
   ],
   "defaultCloudRepo": "",
-  "managerTab": "sources",
+  "managerTab": "plugins",
   "pluginViewMode": "list",
   "themeViewMode": "grid",
   "autoSave": true,

@@ -22,16 +22,6 @@
             }
           },
           {
-            "id": "e888e0469f335a19",
-            "type": "leaf",
-            "state": {
-              "type": "i18n-cloud-view",
-              "state": {},
-              "icon": "cloud",
-              "title": "云端翻译中心"
-            }
-          },
-          {
             "id": "1f56dbd4aae4ac22",
             "type": "leaf",
             "state": {
@@ -39,6 +29,26 @@
               "state": {},
               "icon": "layout-grid",
               "title": "i18n 管理中心"
+            }
+          },
+          {
+            "id": "cdd77389053f74ee",
+            "type": "leaf",
+            "state": {
+              "type": "editor-view-type",
+              "state": {},
+              "icon": "pencil",
+              "title": "编辑器"
+            }
+          },
+          {
+            "id": "9912abe39ef77549",
+            "type": "leaf",
+            "state": {
+              "type": "i18n-cloud-view",
+              "state": {},
+              "icon": "cloud",
+              "title": "云端翻译中心"
             }
           }
         ],
@@ -99,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 245.5,
+    "collapsed": true
   },
   "right": {
     "id": "d3e8fc040348a078",
@@ -216,7 +227,7 @@
       "i18n:common.i18n": false
     }
   },
-  "active": "1f56dbd4aae4ac22",
+  "active": "cdd77389053f74ee",
   "lastOpenFiles": [
     "其他/summary.md",
     "其他/prompt.md",

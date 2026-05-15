@@ -27,6 +27,17 @@
       },
       "updatedAt": 1778814580943,
       "createdAt": 1778814580943
+    },
+    "ulzrrRn9ltjqKUThLr_QvPSa81ITEqmh": {
+      "id": "ulzrrRn9ltjqKUThLr_QvPSa81ITEqmh",
+      "plugin": "obsidian-git",
+      "title": "Git",
+      "type": "plugin",
+      "origin": "local",
+      "isActive": true,
+      "checksum": "690d5bf834dcfe129e62d9662f8c263933c05f4f4268c2fc35cc17c95a3d2d38",
+      "updatedAt": 1778815478884,
+      "createdAt": 1778815474918
     }
   }
 }
