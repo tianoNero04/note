@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "未命名"
             }
+          },
+          {
+            "id": "b9f144401ac4b7e0",
+            "type": "leaf",
+            "state": {
+              "type": "i18n-manager-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "i18n 管理中心"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 245.5
   },
   "right": {
     "id": "d3e8fc040348a078",
@@ -179,11 +190,16 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "obsidian42-brat:BRAT": false,
+      "i18n:common.i18n": false
     }
   },
-  "active": "bc7e30513cec3cd6",
+  "active": "b9f144401ac4b7e0",
   "lastOpenFiles": [
+    "其他/timeline.md",
+    "其他/summary.md",
+    "其他/prompt.md",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",

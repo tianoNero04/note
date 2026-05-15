@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "sources": {
+    "DNE9Mm5WgRcUUbNzmJ316FUUOHcGwkzH": {
+      "id": "DNE9Mm5WgRcUUbNzmJ316FUUOHcGwkzH",
+      "plugin": "obsidian42-brat",
+      "title": "BRAT",
+      "type": "plugin",
+      "origin": "local",
+      "isActive": true,
+      "checksum": "21a9617dba8e6a88eb2dfcca8c87a6561a062a025562fd7b41e26d626af89d8d",
+      "updatedAt": 1778752467966,
+      "createdAt": 1778752467956
+    },
+    "OfNB1biC3rUDlD222Qgj3jKDPV0Q-qKH": {
+      "id": "OfNB1biC3rUDlD222Qgj3jKDPV0Q-qKH",
+      "plugin": "copilot",
+      "title": "Copilot",
+      "type": "plugin",
+      "origin": "local",
+      "isActive": true,
+      "checksum": "8659395adb1d8d53061d9fc255a8bcdf5451c745d6a14fbdec14d0decd7e6563",
+      "updatedAt": 1778752491050,
+      "createdAt": 1778752484397
+    }
+  }
+}
