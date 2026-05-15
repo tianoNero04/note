@@ -13,26 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他/summary.md",
+                "file": "其他/timeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "summary"
+              "title": "timeline"
             }
           },
           {
-            "id": "2cce36ccc3b3d612",
-            "type": "leaf",
-            "state": {
-              "type": "i18n-manager-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "i18n 管理中心"
-            }
-          },
-          {
-            "id": "cf78f90f40e92ed6",
+            "id": "e888e0469f335a19",
             "type": "leaf",
             "state": {
               "type": "i18n-cloud-view",
@@ -40,8 +30,19 @@
               "icon": "cloud",
               "title": "云端翻译中心"
             }
+          },
+          {
+            "id": "1f56dbd4aae4ac22",
+            "type": "leaf",
+            "state": {
+              "type": "i18n-manager-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "i18n 管理中心"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,8 +216,10 @@
       "i18n:common.i18n": false
     }
   },
-  "active": "543c154aea7cc3e2",
+  "active": "1f56dbd4aae4ac22",
   "lastOpenFiles": [
+    "其他/summary.md",
+    "其他/prompt.md",
     "其他/timeline.md",
     "未命名.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
@@ -224,8 +227,6 @@
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "其他/summary.md",
-    "其他/prompt.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",

@@ -398,7 +398,7 @@
     "yunrr/obsidian-i18n-resources"
   ],
   "defaultCloudRepo": "",
-  "managerTab": "plugins",
+  "managerTab": "sources",
   "pluginViewMode": "list",
   "themeViewMode": "grid",
   "autoSave": true,
