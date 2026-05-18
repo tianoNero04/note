@@ -7,6 +7,7 @@
 # 但不要忽略 .gitignore 本身
 !.gitignore
 
+/copilot
 其他/
 temp/
 tmp/
